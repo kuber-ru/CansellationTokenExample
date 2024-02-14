@@ -1,0 +1,6 @@
+@CansellationTokenExample_HostAddress = http://localhost:5178
+
+GET {{CansellationTokenExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
